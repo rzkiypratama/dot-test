@@ -26,3 +26,9 @@ A simple project that fetches data from a dummy API and displays it.
     ```
 
 The application will run on `http://localhost:3000`.
+
+5. On the login page please type:
+    ```bash
+    username: admin
+    password: admin
+    ```
