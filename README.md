@@ -6,7 +6,7 @@ A simple project that fetches data from a dummy API and displays it.
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/your-username/dot-test.git
+    git clone https://github.com/your-username/dot-test.git](https://github.com/rzkiypratama/dot-test
     cd dot-test
     ```
 
